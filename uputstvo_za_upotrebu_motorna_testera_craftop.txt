@@ -12,3 +12,41 @@ NT5200
 NT5210
 NT6200
 
+Neka Vam bezbednost bude na prvom mestu!
+
+Sva uputstva u ovom priručniku koja su obeležena znakom ! moraju se ispoštovati da bi se sprečile sve eventualne povrede i iz tog razloga OBAVEZNO pročitajte ovaj priručnik i posebno obratite pažnju na upozorenja i važne napomene.
+
+SIGURNOSNA UPUTSTVA
+- pročitajte detaljno ovaj priručnik, da bi ste bili sigurni kako da upotrebljavate testeru i sačuvajte ga, jer Vam može zatrebati kasnije ako dođe do nekih problema u radu
+- nedostatak sna, umor ili fizička iscrpljenost mogu da prouzrokuju nepažnju i tako dovedu do nezgoda, te stoga prekinite sa radom čim osetite umor i nastavite kad se odmorite
+- nikada nemojte raditi sa testerom kada ste umorni ili pod uticajem lekova koji izazivaju pospanost, niti kada ste pod uticajem alkohola
+- izbegavajte paljenje testere u zatvorenom prostoru jer izduvni gasovi sadrže štetni ugljen monoksid
+- nikada ne koristite testeru u uslovima kao što su ovde navedeni:
+ - kada je podloga na kojoj radite klizava ili na bilo koji drugi način nestabilna za siguran rad
+ - noću, u uslovima magle ili bilo kada kad je vidno polje ograničeno ili je vidljivost smanjena
+ - u toku kiše ili oluje ili bilo kada kad vremenski uslovi mogu da utiču na bezbednost pri radu
+- pre nego što koristite ovaj proizvod prvi put, obratite se iskusnom radniku ili serviseru, za detaljnija uputstva
+- u slučaju da nekom pozajmite ili prodate testeru, morate ga upozoriti na sve detalje pravilne upotrebe
+- ne dozvojavajte deci niti nespremnim osobama da rukuju testerom
+- obavezno nosite zaštitnu odeću, koja se sastoji od kacige, zaštitnih naočara ili štitnika za lice, jake rukavice, čizme ili zaštitne cipele sa specijalnim, neklizavim đonom i štitnika za uši
+- sa sobom uvek nosite alat i turpije, gorivo i ulje a poželjno je imati i stvari kojima ćete obeležiti radnu površinu i malu sekiru kojom ćete ukloniti eventualne grančice koje Vam smetaju pri radu
+- nikada ne koristite testeru ako nosite sandale ili ste bosi
+- motorna testera radi na mešavinu jako zapaljivog goriva, te morate biti jako pažljivi pri skladištenju
+- zabranjeno je pušenje u toku rada sa mašinom i dopunjavanja goriva
+- treba obratiti pažnju da u blizini mesta gde radite ili dosipate gorivo ne bude otvorenog plamena ni varnica
+- ako dođe do prosipanja goriva u toku punjenja, obrišite prosuto gorivo suvom krpom pre paljenja motora
+- pošto ste dopunili testeru gorivom, dobro zatvorite poklopac, pomerite je oko tri metra od mesta gde ste sipali gorivo i tek onda je upalite
+
+PRE NEGO ŠTO POČNETE SA SEČENJEM
+- proverite prostor za rad, radi sopstvene bezbednosti i planirajte putanju pada drveta
+- udaljite druge osobe i životinje van svog radnog prostora
+- proverite ispravnost mašine (nikada nemojte raditi sa mašinom koja je oštećena, neispravna ili nije kompletna)
+- obavezno proverite da li se testera zaustavlja kada pustite polugu gasa
+
+NAMEŠTANJE MAČA I LANCA
+Standardno pakovanje testere sadrži sledeće:
+- motornu testeru
+- vodilicu lanca (mač)
+- lanac
+- plastičnu zaštitu mača
+- osnovni alat i pribor
