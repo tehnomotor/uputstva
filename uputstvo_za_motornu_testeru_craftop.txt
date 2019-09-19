@@ -1,0 +1,261 @@
+UPUTSTVO ZA UPOTREBU
+
+Motorna testera
+
+CRAFTOP
+
+za modele
+
+NT3800
+NT4510
+NT5200
+NT5210
+NT6200
+
+Neka Vam bezbednost uvek bude na prvom mestu!
+
+Sva uputstva u ovom priručniku koja su obeležena znakom ! moraju se ispoštovati da bi se sprečile sve eventualne povrede i iz tog razloga OBAVEZNO pročitajte ovaj priručnik i posebno obratite pažnju na upozorenja i važne napomene.
+
+SIGURNOSNA uputstva
+
+- Pročitajte detaljno ovaj priručnik, da bi ste bili sigurni kako da upotrebljavate testeru i sačuvajte ga jer Vam može zatrebati kasnije ako dođe do nekih problema u radu.
+- Nedostatak sna, umor ili fizička iscrpljenost mogu da prouzrokuju nepažnju i tako dovedu do nezgoda te stoga prekinite sa radom čim osetite umor i nastavite kad se odmorite.
+- Nikada nemojte raditi sa testerom kada ste umorni ili pod uticajem lekova koji izazivaju pospanost, niti kada ste pod uticajem alkohola.
+- Izbegavajte paljenje testere u zatvorenom prostoru jer izduvni gasovi sadrže štetni ugljen monoksid.
+- Nikada ne koristite testeru u uslovima kao što su ovde navedeni:
+ + kada je podloga na kojoj radite klizava ili na bilo koji drugi način nestabilna za siguran rad,
+ + noću, u uslovima magle ili bilo kada kad je vidno polje ograničeno ili je vidljivost smanjena,
+ + u toku kiše ili oluje ili bilo kada kad vremenski uslovi mogu da utiču na bezbednost pri radu.
+- Pre nego što koristite ovaj proizvod prvi put, obratite se iskusnom radniku ili serviseru za detaljnija uputstva.
+- U slučaju da nekome pozajmite ili prodate testeru, morate ga upozoriti na sve detalje pravilne upotrebe.
+- Ne dozvoljavajte deci niti nespremnim osobama da rukuju testerom.
+- Obavezno nosite zaštitnu odeć, koja se sastoji od kacige, zaštitnih naočara ili štitnika za lice, jake rukavice, čizme ili zaštitne cipele sa specijalnim, neklizavim đonom i štitnike za uši.
+- Sa sobom uvek nosite alat i turpije, gorivo i ulje a poželjno je imati i stvari kojima ćete obeležiti radnu površinu i malu sekiru kojom ćete ukloniti eventualne grančice koje Vam smetaju pri radu.
+- Nikada ne koristite testeru ako nosite sandale ili ste bosi.
+- Motorna testera radi na mešavinu jako zapaljivog goriva, te morate biti jako pažljivi pri skladištenju.
+- Zabranjeno je pušenje u toku rada sa mašinom i dopunjavanje goriva.
+- Treba obratiti pažnju da u blizini mesta gde radite ili dosipate gorivo ne bude otvorenog plamena ni varnica.
+- Ako dođe do prosipanja goriva u toku punjenja, obrišite prosuto gorivo suvom krpom pre paljenja motora.
+- Pošto ste dopunili testeru gorivom, dobro zatvorite poklopac, pomerite je oko tri metra od mesta gde ste sipali gorivo i tek onda je upalite.
+
+PRE NEGO ŠTO POČNETE SA SEČENJEM
+
+- Proverite prostor za rad, radi sopstvene bezbednosti i planirajte putanju pada drveta.
+- Udaljite druge osobe i životinje van svog radnog prostora.
+- Proverite ispravnost mašine (nikada nemojte raditi sa mašinom koja je oštećena, neispravna ili nije kompletna).
+- Obavezno proverite da li se testera zaustavlja kada pustite polugu gasa.
+
+NAMEŠTANJE MAČA I LANCA
+
+Standardno pakovanje testere sadrži sledeće:
+- motornu testeru,
+- vodilicu lanca (mač),
+- lanac,
+- plastičnu zaštitu mača,
+- osnovni alat i pribor.
+
+PAŽNJA! Lanac motorne testere je veoma oštar, koristite debele zaštitne rukavice radi sopstvene sigurnosti. Povucite zaštitnu kočnicu gasa prema prednjoj ručki da proverite da mehanizam nije zakočen. Odvrnite zavrtnje i otvorite deklu (poklopac) mača. Namestite kandžu na testeru. Namestite lanac na pogonski lančanik i u isto vreme nameštajte lanac na mač i tako u toku montiranja namestite to na testeru. Podesite poziciju štel šrafa na dekli mača na donjoj rupi mača.
+
+VAŽNA NAPOMENA! Pri postavljanju obratite pažnju na smer lanca. Novi lanac će se olabaviti posle prve upotrebe.
+Proveravajte i popravljajte zategnutost lanca, jer olabavljen lanac može dovesti do lakšeg i bržeg trošenja mača i samog lanca.
+
+GORIVO I ulje
+
+Testera koristi mešavinu bezolovnog ili super benzina i u proporciji koja zavisi od oktanske vrednosti benzina a naročito vrste ulja.
+
+UPOZORENJE!
+
+Pravilan izbor ulja veoma je bitan za pravilan i dugotrajan rad motora.
+
+OBAVEZNO se obratite Vašem prodavcu ili serviseru za uputstvo za korišćenje ulja.
+Obratite pažnju da pri sipanju goriva ne budete u blizini otvorenog plamena.
+Mešavinu pravite u kantici ili kanisteru koja je namenjena isključivo skladištenju goriva.
+Preporučeno ulje za mazanje lanca je SAE 30.
+Ne koristite upotrebljeno tj. prerađeno ulje koje može da ošteti pumpu.
+
+PRE NEGO ŠTO POČNETE SA SEČENJEM
+
+- Držite testeru čvrsto obema rukama i budite oprezni (maksimalno udaljite telo od testere u toku rada).
+- Pre nego što pokrenete motor, proverite da lanac ne dodiruje nešto.
+
+RUKOVANJE TESTEROM
+
+- Ruke treba da Vam budu suve, obrisane od vode, ulja ili goriva.
+- Ne dodirujte auspuh, svećicu ili druge metalne delove dok motor radi ili odmah po zaustavljanju motora, da ne bi došlo do opekotina na koži ili drugih povreda.
+- Budite posebno pažljivi pri sečenju tankih grančica jer mogu biti uhvaćene u testeru i odbačene prema vama ili vam omesti ravnotežu.
+- Kada sečete granu koja je pod pritiskom ili je napeta, budite oprezni da vas ne bi povredila.
+- Pregledajte drvo od suvih grana koje bi mogle da padnu i povrede vas u toku pada drveta.
+- Uvek ugasite motor pre spuštanja testere na zemlju.
+
+UPOZORENJE!
+
+Može da dođe do povratnog udara kada vrh mača udari u nešto ili kad nepravilnim rukovanjem to izazovete sami. Zato, obratite pažnju, povratni udarac može da dovede do munjevito brzog odbacivanja testere unazad, tj. naviše. Tako gubite kontrolu nad testerom i to može da dovede do ozbiljnih povreda.
+Nemojte se oslanjati isključivo na sigurnosnu opremu koja je u sklopu testere. Kao korisnik testere, trebalo bi da preduzmete sledeće korake u cilju sprečavanja nezgoda pri sečenju.
+- Sa osnovnim znanjem o rukovanju testerom, možete smanjiti ili eliminisati element iznenađenja, tj. mogućnost za nesreću.
+- Čvrsto držite testeru obema rukama, desnom rukom zadnju ručku a levom rukom prednju.
+- Proverite da nema smetnji ni prepreka ni bilo čega što može da zakači u vrh mača dok radite.
+- Secite u velikoj brzini motora.
+- Nemojte seći iznad visine ramena.
+- Postupajte po uputstvima za oštrenje i održavanje koja su Vam data uz testeru.
+- Koristite samo mačeve i lance po preporuci proizvođača.
+
+ODRŽAVANJE
+
+Da bi očuvali svoju motornu testeru i što više joj produžili radni vek, radite redovne provere i održavanja.
+
+UPOZORENJE!
+
+Ugasite motor i pustite ga da se ohladi pre nego što počnete bilo šta da proveravate, jer metalni delovi testere dostižu jako visoke temperature i vrući su posle gašenja.
+Za sve što Vam nije jasno u vezi održavanja a nije prikazano i objašnjeno u priručniku, obratite se Vašem serviseru.
+
+TRANSPORT
+
+Nemojte nositi motornu testeru dok radi. Mora biti ugašena, mač zaštićen, tj. sa stavljenom navlakom i okrenut prema nazad, sa auspuhom što više udaljenim od tela.
+
+STARTOVANJE motora
+
+Pošto ste proverili da li ima dovoljno goriva i ulja i dobro zatvorite te rezervoare, prebacite prekidač u gornji položaj, tj. na oznaku "I". Držite kočnicu gasa zajedno sa polugom za gas i aktivirajte blokadu gasa (dugme sa leve strane zadnje ručke). Izvucite polugu sauha. Spustite testeru na zemlju i snažno povucite ručicu starta.
+
+UPOZORENJE!
+
+Ne palite testeru dok je držite tako da ona visi u jednoj ruci. Lanac može da Vam zakači nogu ili neki drugi deo tela i tako dovede do ozbiljnih povreda.
+Posle prvog znaka paljenja testere, vratite polugu sauha unutra i ponovo povucite ručicu starta da bi upalili testeru. Neka se testera zagreje nekoliko minuta pod malim gasom.
+
+NAPOMENA!
+
+Lanac počinje da se okreće odmah pri paljenju motora, budite pažljivi.
+
+PROVERAVANJE ulja
+
+Po paljenju testere, sa srednje jakim gasom, spustite vrh lanca prema napred, da proverite da li je mazanje ispravno, tj. da li se javlja prskanje ulja. Sa donje strane testere obeleženo je mesto gde možete naštelovati mazanje mača ako je potrebno, koristeći šrafciger.
+
+NAPOMENA!
+
+Redovno proveravajte količinu ulja i dodajte po potrebi.
+
+Za bilo kakve nejasnoće, pitanja ili probleme koje možete imati a što nije objašnjeno u ovom uputstvu, obratite se svom serviseru.
+
+KOČNICA LANCA
+
+Ovaj uređaj je opremljen automatskom kočnicom koja zaustavlja kretanje lanca pri pojavi naglog trzaja unazad ili naviše u toku rada (sečenja). Kočnicu aktivira sila inercije koja deluje na težinu prednjeg dela testere. Ovu kočnicu možete aktivirati i ručno ako prednju zaštitnu ručku gurnete prema napred.
+Da bi oslobodili kočnicu, povucite zaštitnu ručku prema sebi, dok se ne čuje zvuk, tj. dok ne osetite da se kočnica oslobodila.
+
+OPREZ!
+
+Redovno proveravajte da li radi kočnica i to na sledeći način: ugasite motor a zatim držeći testeru horizontalno pustite naglo prednju ručku, tako da vrh mača udari u panj ili parče drveta i tako izazove rad kočnice. Ako se kočnica ne aktivira, potreažite savet vašeg servisera.
+Takođe, trebalo bi proveriti rad kočnice neposredno pre početka rada tako što ćete posle nekoliko minuta rada testere u prazno pod punim gasom gurnuti zaštitnu kočnicu napred.
+Lanac bi trebalo da se zaustavi odmah (iako motor radi punom brzinom). U slučaju da lanac usporava pa se tek onda zaustavi, ili se ne zaustavlja, obratite se serviseru radi popravke.
+Ako testera radi pod gasom, a da je pri tom zakočena, može doći do pregrevanja kvačila i kvara. Ako u toku rada zakočite testeru ili se kočnica automatski aktivira, odmah pustite gas, neka testera radi bez gasa.
+
+ZAUSTAVLJANJE MOTORA
+
+ZAUSTAVLJANJE MOTORA je jednostavno. Pustite ručicu gasa, neka motor radi nekoliko minuta u leru a okrenite prekidač na poziciju <<stop>>.
+
+SEČENJE
+
+UPOZORENJE!
+
+- Pre nego što počnete sa radom, upoznajte se sa sigurnosnim uputstvima, preporučljivo je da prvo sečete manja debla, lakša za sečenje, što će Vam i pomoći da se naviknete na rad sa testerom.
+- Obavezno se pridržavajte uputstava za upotrebu. Motorna testera se koristi isključivo za sečenje drveta, zabranjeno je njome seći druge materijale, radi sopstvene sigurnosti.
+- Nemojte kačiti nikakve priključke koji nisu predviđeni za upotrebu uz ovu testeru.
+- Nije neophodno pritiskati ni na silu gurati testeru pri radu, dovoljan je samo lagani pritisak u toku rada motora pri punom gasu.
+- Kada se testera zaglavi u rezu u drvetu, ne treba je izvlačiti na silu, već upotrebiti neku polugu, klin ili slično pomagalo da bi je lakše izvukli.
+
+OBARANJE DRVETA
+
+- Odredite pravac obaranja drveta u zavisnosti od pravca vetra, nagiba drveta u odnosu na teren, rasporeda grana, mogućnosti za rad sa stablom po obaranju i drugih važnih faktora.
+- Pripremite teren oko drveta, raščistite prostor kako bi vi mogli lako da se krćete.
+- Zasecite sa jedne strane do trećine drveta na onoj strani na koju će drvo da padne.
+- Zasecite ravno unutar drveta sa suprotne strane i na malo većoj visini od vrha prvog zareza.
+
+UPOZORENJE!
+
+Kad obarate drvo, obavezno upozorite ljude koji rade u vašoj blizini.
+
+RAD NA OBORENOM DRVETU
+
+- Uvek obezbedite pogodan teren, tj. proverite bezbednost tla na kome radite.
+- Budite obazrivi, može doći do kotrljanja debla. Kada je deblo na nizbrdici, uvek stanite sa više strane drveta.
+- Pažljivo radite, da bi izbegli eventualni povratni udarac testere.
+- Kada je deblo na zemlji, secite ga do pola, zatim malo okrenite (kotrljajte na jednu stranu), pa secite sa druge strane.
+- Kada je deblo odignuto od zemlje, kao na slici, presecanje se vrši na sledeći način:
+ * U delu obeleženom sa A, secite sa donje strane naviše do jedne trećine u drvo, i završite naniže nastavljajući sa gornje strane debla. U delu obeleženom sa B, secite naniže, počevši sa gornje strane i završite naviše, nastavljajući sečenje sa donje strane debla.
+- Kada hoćete da odsečete granu sa oborenog drveta, utvrdite prvo u kom pravcu je grana rasla, tj. kako je savijena, pa prvo zasecite spoljnu savijenu stranu, a zatim, sa suprotne strane presecite granu.
+
+UPOZORENJE!
+
+Kada sečete grane sa drveta koje niste oborili, zasecite sa donje strane i dovršite sečenje odozgo. Nemojte stajati na nestabilnoj podlozi ili merdevinama, nemojte se naginjati niti seći iznad visine ramena i uvek čvrsto držite testeru obema rukama.
+
+ODRŽAVANJE
+
+UPOZORENJE!
+
+Pre čišćenja, pregledavanje i popravljanje testere, ugasite motor i ostavite ga neko vreme da se ohladi. Odvrnite svećicu da ne bi došlo do slučajnog paljenja.
+
+POSLE SVAKE UPOTREBE
+
+- Određeni postupak održavanja trebalo bi odraditi posle svake upotrebe.
+Treba pregledati i očistiti filter vazduha. Ako je filter malo zaprljan, treba ga samo otresti, a ako je potrebno očistiti mrežice od prljavštine, razdvojite filter na dva dela i operite ga benzinom. Ako hoćete da izduvate filter kompresorom, uduvajte vazduh sa unutrašnje strane.
+Proverite mazanje mača, povremeno skinite mač i očistite kanal lanca.
+Obratite pažnju da ne dođe do curenja goriva. Proverite da li su svi zavrtnji dobro zategnuti, da li je prednja ručka stabilno pričvršćena i da li je mač dobro zategnut.
+Ako primetite neke promene u radu, uočite kvar, obavezno popravite testeru pre sledeće upotrebe.
+
+PERIODIČNO SERVISIRANJE
+
+U zavisnosti od uslova rada, može doći do prljanja cilindra, odnosno do začepljenja krilaca na cilindru, što dovodi do pregrevanja motora. Imajte to na umu i proveravajte cilindar na vreme (pristup cilindru je lak, samo otvorite poklopac filtera i podignite filter vazduha).
+Redovno proveravajte svećicu. Takođe je bitno proveravati pogonski lančanik i ako je očito pohaban zamenite ga novim. Nikada nemojte stavljati upotrebljeni stari lanac na novi lančanik, niti novi lanac na stari lančanik.
+Filtere goriva i ulja povremeno otvorite i operite benzinom ili zamenite novima ako je potrebno. Proverite amortizere ako primetite bilo kakvo oštećenje.
+
+ODRŽAVANJE LANCA I MAČA
+
+Vodite računa da ne dođe do krzanja i trošenja mača i ako primetite da se mač pohabao, zamenite ga na vreme.
+Veoma je važno, zbog lakoće u radu, efikasnosti i sopstvene sigurnosti da lanac na testeri uvek bude oštar. Lanac treba naoštriti u sledećim slučajevima:
+- Kada trina bude sitnija nego inače.
+- Kada je potreban jači pritisak.
+- Rez nije prav.
+- Vibriranje je povećano.
+- Povećana je potrošnja goriva.
+
+Koristite turpiju prečnika 4.5 mm.
+
+MOTORNE TESTERE CRAFTOP
+
+motorna testera CRAFTOP
+
+model:      NT4510
+snaga:      1,7KW / 2,3KS
+zapremina:  45cc
+korak lanca: .325 / 1,5
+težina:     5,5 kg
+
+motorna testera CRAFTOP
+
+model:      NT5210
+snaga:      2,2KW / 3KS
+zapremina:  52cc
+korak lanca: .325 / 1,5
+težina:     5,5 kg
+
+motorna testera CRAFTOP
+
+model:      NT6200
+snaga:      2,9KW / 3,9KS
+zapremina:  61,5 cc
+korak lanca: 3/8" / 1,5
+težina:     6,1 kg
+
+motorna testera CRAFTOP
+
+model:      NT3800
+snaga:      1,5KW / 2KS
+zapremina:  37,2 cc
+korak lanca: 3/8 0,050" / 1,3
+težina:     4,0 kg
+
+motorna testera CRAFTOP
+
+model:      NT5200
+snaga:      2,2KW / 3KS
+zapremina:  51 cc
+korak lanca: .325 / 1,5
+težina:     6,5 kg
