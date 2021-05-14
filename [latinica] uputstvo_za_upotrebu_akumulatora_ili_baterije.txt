@@ -4,6 +4,11 @@ Zahvaljujemo se na ukazanom poverenju pri kupovini akumulatora ______.
 Kako bi ste osigurali da Vaš akumulator radi besprekorno, potrebno je da se pridržavate par osnovnih pravila za njegovo pravilno održavanje.
 Montažu i demontažu treba da obavi stručno lice za slučaj da na vozilu postoje kodirani uređaji ili uređaji sa stalnim napajanjem.
 Akumulator je napunjen gel elektrolitom, do željenog nivoa, fabrički je formiran i zatvoren, te pre prve upotrebe nije potrebno nikakvo dopunjavanje ili osvežavanje. Preporučuje se da prvo startovanje motora bude obavljeno kurblom, ne prekidačem za startovanje.
+
+Ukoliko se akumulator ne koristi duže vreme:
+* Obavezno je da se na 1 (jedan) mesec motor startuje i pali na kurblu.
+* Obavezno je da se na svaka 2 (dva) meseca akumulator dopuni do maksimalnog kapaciteta, postavi na motor i startuje.
+
 Napomena za akumulatore sa displejem (_______) - od momenta prvog startovanja motora, akumulator postaje aktivan, i na displeju će se pokazati broj radnih dana akumulatora, počev od 1. dana. Akumulator beleži do 1999. dana. Resetovanje i promena ovih podataka nije moguća, niti će se podaci izgubiti ukoliko dođe do prekida napajanja. Preporučuje se ručna aktivacija, pritiskom na dugme PUSH, koje valja zadržati desetak sekundi. Osim broja radnih dana, na displeju se očitavaju i podaci o napunjenosti akumulatora/baterije (E-prazan, F-pun). U slučaju malog kapaciteta, oglasiće se zvučni alarm, koji Vas obaveštava da će se akumulator uskoro isprazniti. U tom slučaju, preporučujemo da kontaktirate servis.
 Napomena za akumulatore/baterije sa indikatorom - akumulator sadrži lampice u bojama koje pokazuju stepen napunjenosti (crvena - prazan, žuta - poluprazan, zelena - pun), koje su Vam pouzdan pokazatelj snage Vašeg akumulatora.
 Napomena za kiselinske akumulatore za travokosačice - akumulator treba napuniti kiselinom i osvežiti na punjaču barem 5 sati, pre prve upotrebe. Savetujemo da to prepustite stručnom licu/serviseru. Za dopunjavanje isključivo koristiti destilovanu vodu i voditi računa da akumulator ne bude prepunjen. Kada se ne koristi, akumulator treba održavati napunjenim i priključivati na punjač barem jednom mesečno. Čuvati van domašaja dece, na suvom i mračnom prostoru.
